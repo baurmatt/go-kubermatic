@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/kubermatic/go-kubermatic/models"
+	"github.com/baurmatt/go-kubermatic/models"
 )
 
 // NewUnbindUserFromClusterRoleBindingParams creates a new UnbindUserFromClusterRoleBindingParams object

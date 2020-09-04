@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/kubermatic/go-kubermatic/models"
+	"github.com/baurmatt/go-kubermatic/models"
 )
 
 // ListAWSSizesReader is a Reader for the ListAWSSizes structure.

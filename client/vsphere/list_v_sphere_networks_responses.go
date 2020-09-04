@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/kubermatic/go-kubermatic/models"
+	"github.com/baurmatt/go-kubermatic/models"
 )
 
 // ListVSphereNetworksReader is a Reader for the ListVSphereNetworks structure.
